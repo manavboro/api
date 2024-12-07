@@ -1,0 +1,141 @@
+{
+  "version": "1.0",
+  "data": {
+    "channel": [
+      {
+        "id": "ef084da6fd5c03af66760c8b7bcfb18f",
+        "name": "History TV 18",
+        "logo": "https://d250n7duzgh7t2.cloudfront.net/5M1kWBEAJqxy2bmbnRVNZU9RkqFj0cmS/7718F46772A54819AE19147BCE9D3D6B/tg/History_TV_18_225x225-1731319545679.png",
+        "schedule": [
+          {
+            "start_date_time": "20241127000000",
+            "end_date_time": "20241127010000",
+            "lang": "en",
+            "title": "Ancient Civilizations",
+            "description": "Explore the mysteries of ancient civilizations.",
+            "start": "2024-11-27 00:00:00",
+            "end": "2024-11-27 01:00:00"
+          },
+          {
+            "start_date_time": "20241127020000",
+            "end_date_time": "20241127030000",
+            "lang": "en",
+            "title": "World War Chronicles",
+            "description": "A detailed look into the events of World War II.",
+            "start": "2024-11-27 02:00:00",
+            "end": "2024-11-27 03:00:00"
+          },
+          {
+            "start_date_time": "20241127040000",
+            "end_date_time": "20241127050000",
+            "lang": "en",
+            "title": "Mysteries of Egypt",
+            "description": "Uncovering the secrets of the pyramids.",
+            "start": "2024-11-27 04:00:00",
+            "end": "2024-11-27 05:00:00"
+          },
+          {
+            "start_date_time": "20241127060000",
+            "end_date_time": "20241127070000",
+            "lang": "en",
+            "title": "Warrior Legends",
+            "description": "Stories of legendary warriors from history.",
+            "start": "2024-11-27 06:00:00",
+            "end": "2024-11-27 07:00:00"
+          },
+          {
+            "start_date_time": "20241127080000",
+            "end_date_time": "20241127090000",
+            "lang": "en",
+            "title": "Engineering Marvels",
+            "description": "Ancient engineering feats.",
+            "start": "2024-11-27 08:00:00",
+            "end": "2024-11-27 09:00:00"
+          },
+          {
+            "start_date_time": "20241127100000",
+            "end_date_time": "20241127110000",
+            "lang": "en",
+            "title": "Famous Battles",
+            "description": "A breakdown of famous battles in history.",
+            "start": "2024-11-27 10:00:00",
+            "end": "2024-11-27 11:00:00"
+          },
+          {
+            "start_date_time": "20241127120000",
+            "end_date_time": "20241127130000",
+            "lang": "en",
+            "title": "Kings and Empires",
+            "description": "The rise and fall of history’s greatest empires.",
+            "start": "2024-11-27 12:00:00",
+            "end": "2024-11-27 13:00:00"
+          },
+          {
+            "start_date_time": "20241127140000",
+            "end_date_time": "20241127150000",
+            "lang": "en",
+            "title": "Inventions that Changed the World",
+            "description": "How key inventions shaped human history.",
+            "start": "2024-11-27 14:00:00",
+            "end": "2024-11-27 15:00:00"
+          },
+          {
+            "start_date_time": "20241127160000",
+            "end_date_time": "20241127170000",
+            "lang": "en",
+            "title": "The Age of Exploration",
+            "description": "Explorers who changed the map of the world.",
+            "start": "2024-11-27 16:00:00",
+            "end": "2024-11-27 17:00:00"
+          },
+          {
+            "start_date_time": "20241127180000",
+            "end_date_time": "20241127190000",
+            "lang": "en",
+            "title": "The Renaissance",
+            "description": "A look at the art, science, and culture of the Renaissance.",
+            "start": "2024-11-27 18:00:00",
+            "end": "2024-11-27 19:00:00"
+          },
+          {
+            "start_date_time": "20241127200000",
+            "end_date_time": "20241127210000",
+            "lang": "en",
+            "title": "Industrial Revolution",
+            "description": "The transformative period of industry and innovation.",
+            "start": "2024-11-27 20:00:00",
+            "end": "2024-11-27 21:00:00"
+          },
+          {
+            "start_date_time": "20241127220000",
+            "end_date_time": "20241127230000",
+            "lang": "en",
+            "title": "Great Leaders",
+            "description": "Profiles of leaders who changed history.",
+            "start": "2024-11-27 22:00:00",
+            "end": "2024-11-27 23:00:00"
+          },
+          {
+            "start_date_time": "20241128000000",
+            "end_date_time": "20241128010000",
+            "lang": "en",
+            "title": "Ancient Civilizations",
+            "description": "Explore the mysteries of ancient civilizations.",
+            "start": "2024-11-28 00:00:00",
+            "end": "2024-11-28 01:00:00"
+          },
+          {
+            "start_date_time": "20241128020000",
+            "end_date_time": "20241128030000",
+            "lang": "en",
+            "title": "World War Chronicles",
+            "description": "A detailed look into the events of World War II.",
+            "start": "2024-11-28 02:00:00",
+            "end": "2024-11-28 03:00:00"
+          }
+          
+        ]
+      }
+    ]
+  }
+}
